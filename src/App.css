@@ -1,0 +1,15 @@
+.app{
+ 
+  height: 100vh;
+  place-items:center;
+  
+  
+
+}
+.app_body{
+  display: flex;
+  height: 100vh;
+  
+ 
+  
+}
